@@ -1,13 +1,14 @@
-# Learning Path
+# Self-Study Roadmap
 
-Below you will find the learning path that I have developed and that I follow.
-I use the plan for my self-study as a software developer.
-The self-study (following this plan) should last one year.
-I use udemy courses to learn.
-Follow the links I have provided to find out more.
-The exact course content and course costs can be found on the respective course page.
-I am open to feedback and suggestions for improvement.
-The checkboxes indicate my learning progress.
+I have developed a self-study roadmap to become a software developer.
+This roadmap includes a list of courses that I will be taking, in the order I will be taking them.
+All of these courses are offered by Udemy.
+
+I have also included a brief overview of the learning objectives for each course, as well as checkboxes to indicate my learning progress.
+
+Detailed course descriptions can be found on the links provided.
+
+I welcome feedback and suggestions to enhance my learning journey.
 
 ## HTML and CSS
 
