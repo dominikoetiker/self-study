@@ -2,7 +2,7 @@
 
 Below you will find the learning path that I have developed and that I follow.
 I use the plan for my self-study as a software developer.
-The implementation of the plan should take about a year in total.
+The self-study (following this plan) should last one year.
 I use udemy courses to learn.
 Follow the links I have provided to find out more.
 The exact course content and course costs can be found on the respective course page.
